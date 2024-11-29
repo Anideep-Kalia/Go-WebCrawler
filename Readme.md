@@ -7,7 +7,7 @@ This Go program is designed to scrape SEO data (such as titles, meta description
 
 ## Flow Chart
 
-![alt text](diagram-export-11-29-2024-7_58_20-PM.png)
+![alt text](media/diagram-export-11-29-2024-7_58_20-PM.png)
 
 ---
 
